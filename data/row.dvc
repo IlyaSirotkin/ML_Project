@@ -1,0 +1,6 @@
+outs:
+- md5: ba08fac0f58d7e0aa0ab96cc04ffdd38.dir
+  size: 958936326
+  nfiles: 11
+  hash: md5
+  path: row
