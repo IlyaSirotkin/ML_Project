@@ -1,0 +1,14 @@
+{
+  "model": "ItemKNN",
+  "version": "v1",
+  "created": "2026-11-23T13:45:09",
+  "params": {
+    "k": 20,
+    "shrink": 10
+  },
+  "fit_on": "train+val+test",
+  "n_users": 602,
+  "n_items": 2097,
+  "val_ndcg_10": 0.09879352740613057,
+  "test_ndcg_10": 0.08416268713740364
+}
